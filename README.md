@@ -1,4 +1,4 @@
-## 📌 New Additions
+## 📌 Some Projects
 
 - 🏠 **Housing Prices**  
   Regression analysis to predict real estate values.
